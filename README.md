@@ -4,7 +4,7 @@ RMSDroid is the official Android client for [RMS](https://github.com/zxkuhl/RMS)
 
 ## Download
 
-Grab the latest APK from the [Releases](https://github.com/zxkuhl/RMSDroid/releases) page.
+Grab the latest APK from the [Releases](https://github.com/RMS-Studios/RMSDroid/releases) page.
 
 ## Features
 
@@ -16,7 +16,7 @@ Grab the latest APK from the [Releases](https://github.com/zxkuhl/RMSDroid/relea
 
 ## Installation
 
-1. Download the latest `.apk` from [Releases](https://github.com/zxkuhl/RMSDroid/releases)
+1. Download the latest `.apk` from [Releases](https://github.com/RMS-Studios/RMSDroid/releases)
 2. Enable "Install from unknown sources" in your Android settings
 3. Open the APK and install
 4. Log in and enjoy RMS on Android
