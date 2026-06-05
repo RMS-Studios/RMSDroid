@@ -9,7 +9,7 @@ For a more feature complete app, check out RMSDroidEnhanced instead!
 
 ---
 
-RMSDroid is a custom Discord client for Android. The way it works is that it loads the discord.com website and injects rms.
+RMSDroid is a custom Discord client for Android. The way it works is that it loads the discord.com website and injects RMS.
 
 | | |
 |:--:|:--:|
