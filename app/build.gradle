@@ -1,0 +1,35 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'dev.zxkuhl.rms'
+    compileSdk 33
+
+    defaultConfig {
+        applicationId "dev.zxkuhl.rms"
+        minSdk 21
+        targetSdk 33
+        versionCode 4
+        versionName "1.2"
+    }
+
+    buildTypes {
+        debug {
+            applicationIdSuffix ".dbg"
+        }
+
+        release {
+            minifyEnabled false
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
+}
+
+dependencies {
+    implementation 'androidx.annotation:annotation:1.5.0'
+}
+
