@@ -18,8 +18,6 @@ RMSDroid is a custom Discord client for Android. The way it works is that it loa
 
 Discord's mobile site is not very usable since it has many issues. As such, this is mostly just a proof of concept and is not actively worked on.
 
-You are likely better off using other mods that specifically target the Android app, like [Aliucord](https://github.com/Aliucord/Aliucord).
-
 ## Download
 
 Visit the [latest release](https://github.com/rms/RMSDroid/releases/latest), grab the apk and install it
